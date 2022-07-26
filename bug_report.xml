@@ -1,1 +1,19 @@
 
+<main>
+  <ID> 1 </ID>
+  <Title> Не открывается ссылка (Ошибка: 404) </Title>
+  <Project> Сайт 'Тестирование Программного Обеспечения </Project>
+        <Steps> 1. Перейти по ссылке https://software-testing.org/testing/test-suit-ili-testovyy-nabor.html
+                2. Нажать ссылку 'тест кейсов </Steps>
+        <Enviroment> OS: Windows 10 Pro x64, Browser: Google Chrome v 100.0.4896.60 x64 </Enviroment>        },
+        <Component> ссылка 'Программного Обеспечения' </Component>
+        <Actual result> Не открывается ссылка </Actual result>
+        <Expected result> Должна открыться ссылка на статью </Expected result>
+        <Severity> Critical </Severity>
+  <Priority> High </Priority> 
+  <Status> Open </Status>
+        <Author> Евгений Жи </Author>
+        <Sign to> Вадим К. </Sign to>
+        <Attachments> absent </Attachments> 
+  
+ <main>
